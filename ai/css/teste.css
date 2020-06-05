@@ -1,0 +1,9 @@
+body {
+	color:#FFF;
+	background:#000 url(../imagens/stars.png) repeat top center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+    overflow-x: hidden;
+}
